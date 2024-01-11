@@ -1,4 +1,4 @@
-we will follow MVC architecture
+we will follow MVC architecture with out database
  routes demo 
    #/users -> GET -> {id, username,email}
    #/users/ -> POST -> {username,email}
